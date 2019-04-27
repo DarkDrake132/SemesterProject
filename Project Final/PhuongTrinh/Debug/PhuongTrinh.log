@@ -1,0 +1,7 @@
+﻿  PhuongTrinh.cpp
+c:\users\m6800\desktop\project final\phuongtrinh\phuongtrinh.cpp(10): warning C4309: 'initializing': truncation of constant value
+c:\users\m6800\desktop\project final\phuongtrinh\phuongtrinh.cpp(351): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\m6800\desktop\project final\phuongtrinh\phuongtrinh.cpp(352): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\m6800\desktop\project final\phuongtrinh\phuongtrinh.cpp(355): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\m6800\desktop\project final\phuongtrinh\phuongtrinh.cpp(359): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  PhuongTrinh.vcxproj -> C:\Users\M6800\Desktop\Project Final\Debug\PhuongTrinh.exe
